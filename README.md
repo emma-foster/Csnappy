@@ -1,3 +1,3 @@
 # Csnappy
 
-A description of this package.
+SwiftPM wrapper for Snappy

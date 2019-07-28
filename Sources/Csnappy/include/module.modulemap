@@ -1,0 +1,4 @@
+module Csnappy {
+    header "../snappy.h"
+    link "Csnappy"
+}
